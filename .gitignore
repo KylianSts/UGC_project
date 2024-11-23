@@ -1,0 +1,6 @@
+ugc_project_env/
+requirements.txt
+.ipynb_checkpoints/
+bert_cache/
+
+
